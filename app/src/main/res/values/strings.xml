@@ -1,11 +1,3 @@
 <resources>
     <string name="app_name">SayiTahminOyunu</string>
-    <string name="baslik">Sayı Tahmin Oyunu</string>
-    <string name="tahmininiz">Tahmininiz</string>
-    <string name="tahmin_et">TAHMİN ET</string>
-    <string name="bir_sayi_giriniz">Lütfen Bir Sayı Giriniz</string>
-    <string name="daha_kücük_sayi_giriniz">Daha Küçük Bir Sayı Deneyiniz</string>
-    <string name="daha_büyük_sayi_giriniz">Daha Büyük Bir Sayı Deneyiniz</string>
-    <string name="tebrikler">Tebrikler, Bildiniz!!!</string>
-    <string name="kalan_hak">Kalan Hak:</string>
 </resources>
